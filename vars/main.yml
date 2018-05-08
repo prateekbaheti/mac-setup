@@ -1,25 +1,4 @@
 ---
-homebrew_installed_packages:
-  - postgresql
-  - memcached
-  - chromedriver
-  - phantomjs
-  - wget
-  - tree
-  - tomcat
-  - rbenv
-  - s3cmd
-  - go
-  - awscli
-  - gauge
-  - ant
-  - p7zip
-  - gradle
-  - yarn
-  - node
-  - watch
-
-
 homebrew_taps:
   - caskroom/cask
 
@@ -37,10 +16,30 @@ homebrew_cask_apps:
   - 1password
   - virtualbox
   - iterm2
+  - caffeine
   - intellij-idea
   - sublime-text
   - dropbox
-  - caffeine
   - slack
   - mysqlworkbench
   - toad
+  - chromedriver
+
+homebrew_installed_packages:
+  - postgresql
+  - memcached 
+  - phantomjs
+  - wget
+  - tree
+  - tomcat
+  - rbenv
+  - s3cmd
+  - go
+  - awscli
+  - gauge
+  - ant
+  - p7zip
+  - gradle
+  - yarn
+  - node
+  - watch
