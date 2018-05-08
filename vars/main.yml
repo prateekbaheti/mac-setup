@@ -11,6 +11,14 @@ homebrew_installed_packages:
   - s3cmd
   - go
   - awscli
+  - gauge
+  - ant
+  - p7zip
+  - gradle
+  - yarn
+  - node
+  - watch
+
 
 homebrew_taps:
   - caskroom/cask
@@ -24,13 +32,14 @@ homebrew_cask_apps:
   - skype
   - vagrant
   - vlc
+  - visual-studio-code
+  - atom
   - 1password
   - virtualbox
   - iterm2
   - intellij-idea
   - sublime-text
   - dropbox
-  - screenhero
   - caffeine
   - slack
   - mysqlworkbench
