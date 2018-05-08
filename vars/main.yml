@@ -24,6 +24,7 @@ homebrew_cask_apps:
   - mysqlworkbench
   - toad
   - chromedriver
+  - zoomus
 
 homebrew_installed_packages:
   - postgresql
