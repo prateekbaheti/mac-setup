@@ -50,7 +50,7 @@ homebrew_installed_packages:
   - zsh
 
 configure_dotfiles: true
-dotfiles_repo: https://github.com/geerlingguy/dotfiles.git
+dotfiles_repo: https://github.com/prateekbaheti/mac-setup.git
 dotfiles_repo_accept_hostkey: true
 dotfiles_repo_local_destination: ~/Development/GitHub/dotfiles
 dotfiles_files:
