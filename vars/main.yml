@@ -9,7 +9,6 @@ homebrew_cask_apps:
   - google-chrome
   - firefox
   - skype
-  - vagrant
   - vlc
   - visual-studio-code
   - atom
@@ -25,10 +24,12 @@ homebrew_cask_apps:
   - toad
   - chromedriver
   - zoomus
+  - rubymine
+  - sublime-text
 
 homebrew_installed_packages:
   - postgresql
-  - memcached 
+  - memcached
   - phantomjs
   - wget
   - tree
@@ -37,10 +38,13 @@ homebrew_installed_packages:
   - s3cmd
   - go
   - awscli
-  - gauge
-  - ant
   - p7zip
   - gradle
   - yarn
   - node
   - watch
+  - awscli
+  - rbenv
+  - kubectx
+  - kubernetes-cli
+  - zsh
